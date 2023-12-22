@@ -7,6 +7,7 @@ This Discord bot is written in Python and is designed to simultaneously improve 
 # Commands
 
 - "?", followed by your question: returns an AI-generated answer.
+- "#", followed by your prompt: returns an AI-generated image.
 - hello: returns a friendly hello
 
 
