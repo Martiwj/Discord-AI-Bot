@@ -13,4 +13,5 @@ def handle_response(message: str) -> str:
 
         return get_chat_completion(p_message[1:])
     
-   
+     if p_message[0] == '#':
+        return create_image(p_message[1:])
