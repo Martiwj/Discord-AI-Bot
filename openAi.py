@@ -8,7 +8,7 @@ load_dotenv()
 # Retrieve the API token from your .env file
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
-def get_chat_completion(prompt, model="gpt-3.5-turbo"):
+def get_chat_completion(prompt, model="gpt-4"):
     
     # Creating a message as required by the API
     messages = [{"role": "user", "content": prompt}]
