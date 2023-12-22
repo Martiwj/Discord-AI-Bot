@@ -13,7 +13,7 @@ This Discord bot is written in Python and is designed to simultaneously improve 
 # License
 This project is open-sourced under the MIT License.
 
-#Acknowledgements
+# Acknowledgements
 - https://www.youtube.com/watch?v=hoDLj0IzZMU&t=557s
 - vhunger for inspiration to also make a Discord bot
 
