@@ -19,9 +19,9 @@ def run_discord_bot():
     
     intents = discord.Intents.default()
     intents.members = True
+
     intents.messages = True
     intents.message_content = True
-
     client = discord.Client(intents=intents)
     
     @client.event
@@ -50,6 +50,3 @@ def run_discord_bot():
             
     
     client.run(TOKEN)
-    
-            
-        
