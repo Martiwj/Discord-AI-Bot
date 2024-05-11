@@ -1,7 +1,7 @@
 # CookBot
 
 ## Introduction
-CookBot is a Discord bot designed to assist users with generating images and answering questions using OpenAI's API. Built with Python, this bot leverages the capabilities of GPT-4, a powerful language model, to provide intelligent responses and image generation functionalities. You can watch a demo of the bot at my website [Visit my website](https://www.martiwj.com)
+CookBot is a Discord bot designed to assist users with generating images and answering questions using OpenAI's API. Built with Python, this bot leverages the capabilities of GPT-4, a powerful language model, to provide intelligent responses and image generation functionalities. You can watch a demo of the bot at my website [martiwj.com](https://www.martiwj.com)
 
 
 ## Features
